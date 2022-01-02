@@ -7,19 +7,19 @@ Oi! Sou Ana Clara e tenho 20 anos. Atualmente estou estudando Ciência da Comput
 
 # Files / Arquivos
 
--   Desenvolvimento WEB (Crud Feito com PHP)
-     WEB Development (Crud Made with PHP)
+-   Desenvolvimento WEB (Crud Feito com PHP) <br>
+     WEB Development (PHP Crud)
      
--   Inteligência Artificial (Testes utilizando Prolog)
+-   Inteligência Artificial (Testes utilizando Prolog) <br>
 Artificial Intelligence  (Prolog tests)
 
--   Cálculo Numérico (Exercícios Polinomio de Lagrange, Polinomio de Newton e Minimos Quadrados)
+-   Cálculo Numérico (Exercícios Polinomio de Lagrange, Polinomio de Newton e Minimos Quadrados) <br>
 Numerical Calculus (Lagrange polynomial, Newton polynomial, and Polynomial least squares)
 
--   Banco De Dados (Linguagem SQL de Definição de Dados e Linguagem SQL de Manipulação de Dados)
+-   Banco De Dados (Linguagem SQL de Definição de Dados e Linguagem SQL de Manipulação de Dados) <br>
 Database (Data Definition SQL Language and Data Manipulation SQL Language)
 
-## You can find me / Você pode me encontrar
+## Find me on / Me encontre em:
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ana-clara-mansano-5051011ab/)
 &nbsp;
